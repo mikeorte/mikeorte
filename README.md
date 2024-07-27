@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 - 1st in Spirit Points at Eagle Hacks 2024 Hackathon
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeorte&layout=compact&theme=radical< --)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeorte&layout=compact&theme=radical)
 
 <!-- EXTRA POSSIBLE STATS TO DISPLAY
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeorte&show_icons=true&theme=radical)

@@ -4,18 +4,14 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 
 ## 📫 Contact Me
 - **Email:** [mrortegamichael@gmail.com](mailto:mrortegamichael@gmail.com)
-- **Website:** [michaelortega.tech](https://michaelortega.tech)
+- **Portfolio:** [michaelortega.tech](https://michaelortega.tech)
 - **LinkedIn:** [Michael Ortega](https://www.linkedin.com/in/michael-ortega-88b201222/)
-- **Portfolio:** [Mike's Portfolio](https://mikeorte.github.io/Portfolio/)
 
 ## 🔧 Skills
-- **Languages:** JavaScript, HTML/CSS, C++, MySQL, Java, Python, C#, Ruby, PHP, Swift, Kotlin, TypeScript, Go, Rust, Scala, Perl, Haskell, SQL, XML, JSON, YAML
-- **Frameworks:** Node.js, Express, React, Spring, Spring Boot, Hibernate, JPA
-- **Databases:** MongoDB, PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle Database
-- **Tools & Technologies:** Docker, Kubernetes, Jenkins, Git, GitHub, GitLab, Bitbucket, Ansible, Puppet, Chef, Terraform, AWS, Azure, Google Cloud, IBM Cloud, Salesforce, Heroku, DigitalOcean, Linode
-- **CI/CD:** Continuous Integration, Continuous Delivery, Continuous Deployment
-- **DevOps:** DevOps, DevSecOps, SecOps, NetOps, GitOps, ChatOps, NoOps, AIOps, MLOps, DataOps, FinOps, SRE
-- **Agile & Project Management:** Agile, Scrum, Kanban, Lean, XP, SAFe, LeSS, DAD, Nexus, Crystal
+- **Languages:** JavaScript, HTML/CSS, C++, SQL, Python
+- **Frameworks:** Node.js, Express, React
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Tools & Technologies:** Git, GitHub, VS Code
 
 ## 💼 Professional Experience
 

@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 - **LinkedIn:** [Michael Ortega](https://www.linkedin.com/in/michael-ortega-88b201222/)
 
 ## 🔧 Skills
-- **Languages:** JavaScript, HTML/CSS, C++, SQL, Python
-- **Frameworks:** Node.js, Express, React
+- **Languages:** C#, JavaScript, HTML/CSS, C++, SQL, Python
+- **Frameworks:** .Net, ASP.Net, Node.js, Express, React
 - **Databases:** MongoDB, PostgreSQL, MySQL
 - **Tools & Technologies:** Git, GitHub, VS Code
 

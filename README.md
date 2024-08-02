@@ -42,6 +42,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 - Software Engineering Essentials (IBM)
 - C++ Entry Programmer (C++ Institute)
 - Developer Fundamentals (SkillSoft)
+- Complete Web Developer (Zero to Mastery)
+- C# and .Net Bootcamp (Zero to Mastery)
 
 ## 🏆 Awards
 - 1st in Spirit Points at Eagle Hacks 2024 Hackathon

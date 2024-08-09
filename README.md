@@ -15,12 +15,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 
 ## 💼 Professional Experience
 
-### Herc Rentals, Bonita Springs, FL
-**Automation Intern** (May 2024 – Present)
-- Developed a VBA script to automate email scraping for ticket information, enhancing efficiency for 30+ employees.
-- Designed an Excel script for CSV file formatting, speeding up data analysis by 40%.
-- Implemented an Excel script with Power Query for inventory audits, reducing audit time by 35%.
-
 ### AIM-HI, Remote
 **Full Stack Developer Intern** (February 2024 – Present)
 - Architected and optimized client-side and server-side structures for 5 projects using React and Node.js.

@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm a passionate software engineer with a strong foundation in both frontend and backend development. I enjoy building efficient and scalable applications, and I'm always eager to learn new technologies and improve my skills.
 
 ## 📫 Contact Me
-- **Email:** mrortegamichael@gmail.com
-- **Portfolio:** michaelortega.tech
-- **LinkedIn:** Michael Ortega
+- **Email:** [mrortegamichael@gmail.com](mailto:mrortegamichael@gmail.com)
+- **Portfolio:** [michaelortega.tech](https://michaelortega.tech)
+- **LinkedIn:** [Michael Ortega](https://www.linkedin.com/in/michael-ortega-88b201222/)
 
 ## 🔧 Skills
 - **Languages:** C#, JavaScript, TypeScript, HTML/CSS, C++, SQL, Python
